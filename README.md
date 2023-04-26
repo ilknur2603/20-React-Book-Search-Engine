@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 21 MERN: Book Search Engine
 
 ## Your Task
@@ -262,3 +263,6 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# 21-React-Book-Search-Engine
+>>>>>>> 52b78fbc4093826673af1a3fb9e9184d3d326dba
