@@ -1,6 +1,6 @@
 
 # 21 MERN: Book Search Engine
-# 19 Progressive Web Applications (PWA): Text Editor
+
 ![License](https://img.shields.io/badge/License%3A-MIT-green)
 # Table of Contents
 
