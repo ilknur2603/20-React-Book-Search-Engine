@@ -1,7 +1,6 @@
-//Describe variables
-const{gql}=require ("apollo-server=express");
+// import setup for Apollo Server with Express
+const { gql } = require('apollo-server-express');
 
-//following tasks in the README.FILE, creating Query, InputBook, Mutation, User, Book, Auth  with types
 const typeDefs = gql`
     type User {
         _id: ID!
