@@ -4,7 +4,7 @@ const path = require('path');
 const { authMiddleware } = require('./utils/auth'); 
 const { typeDefs, resolvers } = require('./schemas'); 
 const db = require('./config/connection');
-
+require('dotenv').config({ path: './config/.env' });
 // not needed for GraphQL API
 // const routes = require('./routes');  
 
@@ -28,6 +28,7 @@ if (process.env.NODE_ENV === 'production') {
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '../client/build/index.html')); 
 });
+
 
 // Create a new instance of an Apollo server with the GraphQL schema 
 
