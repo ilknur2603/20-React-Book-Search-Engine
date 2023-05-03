@@ -4,6 +4,7 @@ const path = require('path');
 const { authMiddleware } = require('./utils/auth'); 
 const { typeDefs, resolvers } = require('./schemas'); 
 const db = require('./config/connection');
+
 require('dotenv').config({ path: './config/.env' });
 // not needed for GraphQL API
 // const routes = require('./routes');  
