@@ -14,9 +14,10 @@
 * #8.  [Questions](#questions)
 * <br>
 ----
+<br>
 ## Description
 
-
+<br>
 Your assignment this week is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
 
 This week, you’ll take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end. 
@@ -34,32 +35,32 @@ To complete the assignment, you’ll need to do the following:
 <br>
 #installation
 # Usage
-<br/>
+<br>
 ![deletebook.png](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/deletebook.png)
-<br/>
+<br>
 ![heroku-log](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/heroku-log.png)
-<br/>
+<br>
 ![heroku-save-book](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/heroku-save-book.png)
-<br/>
+<br>
 ![heroku-search-books-gif](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/heroku-search-books.gif)
-<br/>
+<br>
 ![localhost-login-gif](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/localhost-login.gif)
-<br/>
+<br>
 ![localhost-save-book](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/localhost-save-book.png)
-<br/>
+<br>
 ![localhost-saved-books-gif](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/localhost-saved-books.gif)
-<br/>
+<br>
 ![localhost](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/localhost.png)
-<br/>
+<br>
 ![mongoDb.gif](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/mongodb-google-books.gif)
-<br/>
+<br>
 ![mongo.png](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/mongooooo.png)
-<br/>
+<br>
 ![savedbook-png](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/save-book.png)
-<br/>
+<br>
 ![VsCode](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/vscodeeeee.png)
-<br/>
-<br/>
+<br>
+<br>
 
 ## User Story
 <br/>
