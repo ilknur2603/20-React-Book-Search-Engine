@@ -34,6 +34,7 @@ To complete the assignment, you’ll need to do the following:
 #Technologies Used
 <br>
 #installation
+<br>
 # Usage
 <br>
 ![deletebook.png](https://github.com/ilknur2603/21-React-Book-Search-Engine/blob/main/Assets/deletebook.png)
