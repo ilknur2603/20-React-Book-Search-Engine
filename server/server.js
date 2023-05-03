@@ -5,6 +5,8 @@ const { authMiddleware } = require('./utils/auth');
 const { typeDefs, resolvers } = require('./schemas'); 
 const db = require('./config/connection');
 
+
+
 require('dotenv').config({ path: './config/.env' });
 // not needed for GraphQL API
 // const routes = require('./routes');  
@@ -15,6 +17,10 @@ const app = express();
 const server = new ApolloServer({ 
   typeDefs,
   resolvers,
+  //Ensures memory is bounded
+  cache: "bounded",
+  // Disables persisted queries
+  persistedQueries: false,
   context: authMiddleware,
 });
 
